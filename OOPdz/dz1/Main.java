@@ -23,4 +23,4 @@ public class Main {
         hotMachine.finishProduct(finishProd);
     }
 }
-}
+
